@@ -66,9 +66,6 @@ The script will export the following files to the specified directory:
 
 If you find any bugs or have a feature request, please create an issue or submit a pull request on GitHub.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
